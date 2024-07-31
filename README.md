@@ -1,2 +1,2 @@
-# news-app
+all exclusive news update only on exclusive news
  
