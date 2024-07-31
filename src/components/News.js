@@ -179,7 +179,7 @@ export class News extends Component {
       <div className='container my-3'>
         
         <div className='text-center'>
-        <h2>NEW ITEMS</h2>
+        <h2>NEW ITEMS 24/7</h2>
         {this.state.loading && <Spinner/>}
         </div>
         <div className="row" >
