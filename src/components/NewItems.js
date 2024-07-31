@@ -12,7 +12,7 @@ export class NewItems extends Component {
             <div className="card-body">
               <h5 className="card-title">{Title}...</h5>
               <p className="card-text">{Description}...</p>
-              <a href={newsUrl} target='blank' className="btn btn-primary btn-dark">Know More</a>
+              <a href={newsUrl} target='blank' className="btn btn-primary btn-dark">Read More</a>
             </div>
         </div>
 

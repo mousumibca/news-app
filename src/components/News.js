@@ -130,10 +130,11 @@ export class News extends Component {
         "publishedAt": "2024-07-29T04:37:16.0325152Z",
         "content": "Mollie OCallaghan, Emma McKeon, Meg Harris and Shayna Jack won gold at the women's 4x100 meter freestyle relay on Saturday. \r\nThey were making their way out of the Paris Aquatic Centre when Mr Ballar… [+917 chars]"
       },
+
     ]
   constructor() {
     super()
-    console.log("hello")
+    console.log("This is constructor")
     this.state = {
       articles: this.articles,
       loading: false,
