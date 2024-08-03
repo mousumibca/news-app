@@ -17,7 +17,7 @@ export default class App extends Component {
     }
     else {
       document.body.style.backgroundColor = "white ";
-      document.body.style.color="black";
+      document.body.style.color="black"
     }
   }
   render() {
